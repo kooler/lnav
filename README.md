@@ -10,6 +10,7 @@
 
 _This is the source repository for **lnav**, visit [https://lnav.org](https://lnav.org) for a high level overview._
 
+
 # LNAV -- The Logfile Navigator
 
 The Logfile Navigator is a log file viewer for the terminal.  Given a
@@ -31,6 +32,8 @@ Then, in the **lnav** TUI, you can:
 - pretty-print structured text ([press `P`](https://docs.lnav.org/en/latest/ui.html#pretty));
 - view a histogram of messages over time ([press `i`](https://docs.lnav.org/en/latest/ui.html#hist));
 - analyze messages using SQLite ([press `;`](https://docs.lnav.org/en/latest/sqlext.html))
+
+[![Live demo by Demoshell](https://build.demoshell.com/v1/embed/badge.svg)](https://build.demoshell.com/launch?snapshot=demoshell%2Ftui%3Alnav&utm_source=badge)
 
 ## Screenshot
 
